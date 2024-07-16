@@ -1,7 +1,7 @@
 # Base image olarak OpenJDK 8 kullanıyoruz
 FROM openjdk:8-jdk
 
-# GlassFish sunucusunun 4.1.1 sürümünü indiriyoruz
+# GlassFish sunucusussnun 4.1.1 sürümünü indiriyoruz
 ENV GLASSFISH_VERSION 4.1.1
 ENV GLASSFISH_HOME /glassfish
 
