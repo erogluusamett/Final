@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo 'Building the project...'
                 // Örneğin, bir Maven projesi inşa etmek için
-                // sh 'mvn clean install'
+                // sh 'mvn cdsstddddddddlean install'
             }
         }
         stage('Test') {
